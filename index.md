@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to _Papaver_-Genomics Data Pages
 
-You can use the [editor on GitHub](https://github.com/xjtu-omics/Papaver.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+_Papaver_ species have very important evolutionary positions, and they are the main source for the Morphinans, which are important pain-killing alkaloids. How and why _Papaver_ species produce Morphinans is very interesting. We sequenced three _Papaver_ species genome aimming to address these questions and decode the their eveolutionary history.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Here is the omics data warehouse for _Papaver_ species.
 
 ### Markdown
 
