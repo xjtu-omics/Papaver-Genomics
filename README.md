@@ -1,5 +1,6 @@
-# Papaver.github.io
+# Welcome to Papaver Genomic page
 
-# This is the genome annotation of three chromosome-scale Papaver species genomes
+## This is the Data resuorce of Papaver species genome
 
-# Papaver rhoeas
+## Currently, it includes Papaver somniferum (opium poppy), Papaver rhoeas (common poppy), and Papaver setigerum (troy poppy) genomic data
+
