@@ -12,6 +12,11 @@ Currently, it includes _Papaver somniferum_ (opium poppy), _Papaver rhoeas_ (com
       <h1><i>Papaver somniferum</i></h1>
       <p><b>Genomic Raw Data</b>: <a href = "https://bigd.big.ac.cn"> at National Genomics Data Center (NGDC)</a></p>
       <p><b>Assembly Genome</b>: <a href = "https://bigd.big.ac.cn"> GWHAAFE00000000 </a></p>
+
+{% raw %}
+<button onclick="window.open('https://github.com/xjtu-omics/Papaver-Genomics/blob/main/Papaver_somniferum/Papaver_somniferum.gene.bed.tar.gz')">Download</button>
+{% endraw %}
+
       <p><b>Genome Annotation</b>: <a href = "https://github.com/xjtu-omics/Papaver-Genomics/blob/main/Papaver_somniferum/Papaver_somniferum.gene.bed.tar.gz" download="Papaver_somniferum.bed.tar.gz"> <i>bed</i> file </a> </p>
       <p><b>Genome Annotation</b>: <a href = "https://github.com/xjtu-omics/Papaver-Genomics/blob/main/Papaver_somniferum/Papaver_somniferum.gene.gff3.tar.gz" download="Papaver_somniferum.gene.gff3.tar.gz"> <i>gff3</i> file </a> </p>
       <p><b>Genome Annotation</b>: <a href = "https://github.com/xjtu-omics/Papaver-Genomics/blob/main/Papaver_somniferum/Papaver_somniferum.cds.tar.gz" download="Papaver_somniferum.cds.tar.gz"> <i>cds of protein-coding genes</i> </a></p>
