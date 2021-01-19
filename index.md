@@ -13,10 +13,9 @@ Currently, it includes _Papaver somniferum_ (opium poppy), _Papaver rhoeas_ (com
       <p><b>Genomic Raw Data</b>: <a href = "https://bigd.big.ac.cn"> at National Genomics Data Center (NGDC)</a></p>
       <p><b>Genome Assembly</b>: <a href = "https://bigd.big.ac.cn/search/?dbId=&q=GWHAAFE00000000"> GWHAAFE00000000 </a></p>
       <p><b>Genome Annotation</b>: 
-           <a href = "https://github.com/xjtu-omics/Papaver-Genomics/raw/main/Papaver_somniferum/Papaver_somniferum.gene.bed.tar.gz" download="Papaver_somniferum.gene.bed.tar.gz"> <i>bed</i> </a> 
-            <a href = "https://github.com/xjtu-omics/Papaver-Genomics/raw/main/Papaver_somniferum/Papaver_somniferum.gene.gff3.tar.gz" download="Papaver_somniferum.gene.gff3.tar.gz"> <i>gff3</i> </a> 
-            <a href = "https://github.com/xjtu-omics/Papaver-Genomics/raw/main/Papaver_somniferum/Papaver_somniferum.gene.gff3.tar.gz" download="Papaver_somniferum.gene.gff3.tar.gz"> <i>gff3</i> file </a> 
-             <a href = "https://github.com/xjtu-omics/Papaver-Genomics/raw/main/Papaver_somniferum/Papaver_somniferum.cds.tar.gz" download="Papaver_somniferum.cds.tar.gz"> <i>cds</i> </a> 
+           <a href = "https://github.com/xjtu-omics/Papaver-Genomics/raw/main/Papaver_somniferum/Papaver_somniferum.gene.bed.tar.gz" download="Papaver_somniferum.gene.bed.tar.gz"> <i>bed</i> </a> &nbsp;&nbsp;&nbsp;
+            <a href = "https://github.com/xjtu-omics/Papaver-Genomics/raw/main/Papaver_somniferum/Papaver_somniferum.gene.gff3.tar.gz" download="Papaver_somniferum.gene.gff3.tar.gz"> <i>gff3</i> </a> &nbsp;&nbsp;&nbsp;
+             <a href = "https://github.com/xjtu-omics/Papaver-Genomics/raw/main/Papaver_somniferum/Papaver_somniferum.cds.tar.gz" download="Papaver_somniferum.cds.tar.gz"> <i>cds</i> </a>  &nbsp;&nbsp;&nbsp;
         <a href = "https://github.com/xjtu-omics/Papaver-Genomics/raw/main/Papaver_somniferum/Papaver_somniferum.pep.tar.gz" download="Papaver_somniferum.pep.tar.gz"> <i>protein</i> </a> 
       </p>
     </td>
@@ -30,10 +29,10 @@ Currently, it includes _Papaver somniferum_ (opium poppy), _Papaver rhoeas_ (com
       <h1><i>Papaver setigerum</i></h1>
       <p><b>Genomic Raw Data</b>: <a href = "https://bigd.big.ac.cn"> at National Genomics Data Center (NGDC)</a></p>
       <p><b>Genome Assembly</b>: <a href = "https://bigd.big.ac.cn/search/?dbId=&q=GWHAZPH00000000"> GWHAZPH00000000 </a></p>
-      <p><b>Genome Annotation</b>: <a href = "https://github.com/xjtu-omics/Papaver-Genomics/raw/main/Papaver_setigerum/Papaver_setigerum.gene.bed.tar.gz" download="Papaver_setigerum.gene.bed.tar.gz"> <i>bed</i> file </a> </p>
-      <p><b>Genome Annotation</b>: <a href = "https://github.com/xjtu-omics/Papaver-Genomics/raw/main/Papaver_setigerum/Papaver_setigerum.gene.gff3.tar.gz" download="Papaver_setigerum.gene.gff3.tar.gz"> <i>gff3</i> file </a> </p>
-      <p><b>Genome Annotation</b>: <a href = "https://github.com/xjtu-omics/Papaver-Genomics/raw/main/main/Papaver_setigerum/Papaver_setigerum.cds.tar.gz" download="Papaver_setigerum.cds.tar.gz"> <i>cds</i> </a></p>
-      <p><b>Genome Annotation</b>: <a href = "https://github.com/xjtu-omics/Papaver-Genomics/raw/main/Papaver_setigerum/Papaver_setigerum.pep.tar.gz" download="Papaver_setigerum.pep.tar.gz"> <i>protein</i> </a></p>
+      <p><b>Genome Annotation</b>: <a href = "https://github.com/xjtu-omics/Papaver-Genomics/raw/main/Papaver_setigerum/Papaver_setigerum.gene.bed.tar.gz" download="Papaver_setigerum.gene.bed.tar.gz"> <i>bed</i> </a>  &nbsp;&nbsp;&nbsp;
+       <a href = "https://github.com/xjtu-omics/Papaver-Genomics/raw/main/Papaver_setigerum/Papaver_setigerum.gene.gff3.tar.gz" download="Papaver_setigerum.gene.gff3.tar.gz"> <i>gff3</i> </a>  &nbsp;&nbsp;&nbsp;
+       <a href = "https://github.com/xjtu-omics/Papaver-Genomics/raw/main/main/Papaver_setigerum/Papaver_setigerum.cds.tar.gz" download="Papaver_setigerum.cds.tar.gz"> <i>cds</i> </a> &nbsp;&nbsp;&nbsp;
+       <a href = "https://github.com/xjtu-omics/Papaver-Genomics/raw/main/Papaver_setigerum/Papaver_setigerum.pep.tar.gz" download="Papaver_setigerum.pep.tar.gz"> <i>protein</i> </a> </p>
     </td>
     <td width="25%">
       <img src="image/setigerum.png" width="100%">
@@ -44,10 +43,10 @@ Currently, it includes _Papaver somniferum_ (opium poppy), _Papaver rhoeas_ (com
       <h1><i>Papaver rhoeas</i></h1>
       <p><b>Genomic Raw Data</b>: <a href = "https://bigd.big.ac.cn"> at National Genomics Data Center (NGDC)</a></p>
       <p><b>Genome Assembly</b>: <a href = "https://bigd.big.ac.cn/search/?dbId=&q=GWHAZPI00000000"> GWHAZPI00000000 </a></p>
-      <p><b>Genome Annotation</b>: <a href = "https://github.com/xjtu-omics/Papaver-Genomics/raw/main/Papaver_rhoeas/Papaver_rhoeas.gene.bed.tar.gz" download="Papaver_rhoeas.gene.bed.tar.gz"> <i>bed</i> file </a> </p>
-      <p><b>Genome Annotation</b>: <a href = "https://github.com/xjtu-omics/Papaver-Genomics/raw/main/Papaver_rhoeas/Papaver_rhoeas.gene.gff3.tar.gz" download="Papaver_rhoeas.gene.gff3.tar.gz"> <i>gff3</i> file </a> </p>
-      <p><b>Genome Annotation</b>: <a href = "https://github.com/xjtu-omics/Papaver-Genomics/raw/main/Papaver_rhoeas/Papaver_rhoeas.cds.tar.gz" download="Papaver_rhoeas.cds.tar.gz"> <i>cds</i> </a></p>
-      <p><b>Genome Annotation</b>: <a href = "https://github.com/xjtu-omics/Papaver-Genomics/raw/main/Papaver_rhoeas/Papaver_rhoeas.pep.tar.gz" download="Papaver_rhoeas.pep.tar.gz"> <i>protein</i> </a></p>
+      <p><b>Genome Annotation</b>: <a href = "https://github.com/xjtu-omics/Papaver-Genomics/raw/main/Papaver_rhoeas/Papaver_rhoeas.gene.bed.tar.gz" download="Papaver_rhoeas.gene.bed.tar.gz"> <i>bed</i> </a>  &nbsp;&nbsp;&nbsp;
+      <a href = "https://github.com/xjtu-omics/Papaver-Genomics/raw/main/Papaver_rhoeas/Papaver_rhoeas.gene.gff3.tar.gz" download="Papaver_rhoeas.gene.gff3.tar.gz"> <i>gff3</i></a> &nbsp;&nbsp;&nbsp;
+      <a href = "https://github.com/xjtu-omics/Papaver-Genomics/raw/main/Papaver_rhoeas/Papaver_rhoeas.cds.tar.gz" download="Papaver_rhoeas.cds.tar.gz"> <i>cds</i> </a> &nbsp;&nbsp;&nbsp;
+      <a href = "https://github.com/xjtu-omics/Papaver-Genomics/raw/main/Papaver_rhoeas/Papaver_rhoeas.pep.tar.gz" download="Papaver_rhoeas.pep.tar.gz"> <i>protein</i> </a></p>
     </td>
     <td width="25%">
       <img src="image/rhoeas.png" width="100%">
