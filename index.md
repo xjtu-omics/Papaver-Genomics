@@ -11,7 +11,7 @@ Currently, it includes _Papaver somniferum_ (opium poppy), _Papaver rhoeas_ (com
     <td width="75%">
       <h1><i>Papaver somniferum</i></h1>
       <p><b>Genomic Raw Data</b>: <a href = "https://bigd.big.ac.cn"> at National Genomics Data Center (NGDC)</a></p>
-      <p><b>Genome Assembly</b>: <a href = "https://bigd.big.ac.cn/search/?dbId=&q=GWHAAFE00000000"> GWHAAFE00000000 </a></p>
+      <p><b>Genome Assembly</b>: <a href = "https://bigd.big.ac.cn/search/?dbId=&q=GWHAZPJ00000000"> GWHAZPJ00000000 </a></p>
       <p><b>Genome Annotation</b>: 
            <a href = "https://github.com/xjtu-omics/Papaver-Genomics/raw/main/Papaver_somniferum/Papaver_somniferum.gene.bed.tar.gz" download="Papaver_somniferum.gene.bed.tar.gz"> <i>bed</i> </a> &nbsp;&nbsp;&nbsp;
             <a href = "https://github.com/xjtu-omics/Papaver-Genomics/raw/main/Papaver_somniferum/Papaver_somniferum.gene.gff3.tar.gz" download="Papaver_somniferum.gene.gff3.tar.gz"> <i>gff3</i> </a> &nbsp;&nbsp;&nbsp;
