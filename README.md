@@ -4,7 +4,7 @@
 
 Currently, it includes _Papaver somniferum_ (opium poppy), _Papaver rhoeas_ (common poppy), and _Papaver setigerum_ (troy poppy) genomic data
 
-The raw genomic data and the genome assembly will released at [National Genomics Data Center (NGDC)](https://bigd.big.ac.cn) with accestion number of GWHAAFE00000000, GWHAZPH00000000, and GWHAZPI00000000.
+The raw genomic data and the genome assembly will released at [National Genomics Data Center (NGDC)](https://bigd.big.ac.cn) with accestion number of GWHAZPJ00000000, GWHAZPH00000000, and GWHAZPI00000000.
 
 ## In this repository, we released the genomic annotation fie.
 
