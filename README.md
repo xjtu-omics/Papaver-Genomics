@@ -25,3 +25,6 @@ The raw genomic data and the genome assembly will released at [National Genomics
   - Papaver_somniferum.gene.gff3.tar.gz: the _Papaver somniferum_ protein-coding genes annotation in `gff3` file
   - Papaver_somniferum.cds.tar.gz: the _Papaver somniferum_ `cds` sequences of annotated protein-coding genes data
   - Papaver_somniferum.pep.tar.gz: the _Papaver somniferum_ `protein` sequences of annotated protein-coding genes data
+
+
+If you want to use these data, please contact Xiaofei Yang, xfyang@xjtu.edu.cn or Kai Ye, kaiye@xjtu.edu.cn 
