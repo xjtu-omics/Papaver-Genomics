@@ -33,7 +33,7 @@ If you want to use these data, please contact Xiaofei Yang, xfyang@xjtu.edu.cn o
 ## The analysis_scripts folder includes the scripts used in our research work
 
  - The files in the analysis_scripts as following:
-   - nextdenovo_run.pbs  : the script used to assembly P. setigerum and P. rhoeas gneome based on Nanopore sequencing data by [NextDenovo](https://github.com/Nextomics/NextDenovo)
+   - `nextdenovo_run.pbs`  : the script used to assembly P. setigerum and P. rhoeas gneome based on Nanopore sequencing data by [NextDenovo](https://github.com/Nextomics/NextDenovo)
    - `scaffHic_breakhic_run.sh` : the script used to break the contigs with missing assembly based on Hi-C data by [scaffHic](https://github.com/wtsi-hpag/scaffHiC)
    - `3d-DNA-whole_pipeline.sh` : the script used to scaffold genomes based on Hi-C data by [3d-DNA](https://github.com/aidenlab/3d-dna)
    - `purge_dups-whole-pipeline.sh` : the script used to purge duplications in P. rhoease genome by [purge_dups](https://github.com/dfguan/purge_dups)
