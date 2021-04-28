@@ -1,0 +1,20 @@
+#!/bin/sh
+
+NO_THREAD=$t
+source activate Trinity
+WORKDIR=/home/trinity_out
+DATADIR=/home/rawdata/RNA-seq
+
+echo "trinity assembly transcripts"
+cd $DATADIR
+gunzip -c $TYPE"_R1.fastq.gz" > $TYPE"_R1.fastq"
+gunzip -c $TYPE"_R2.fastq.gz" > $TYPE"_R2.fastq"
+
+cd $WORKDIR
+mkdir $TYPE
+cd $TYPE
+Trinity --seqType fq --max_memory 200G --left $DATADIR/$TYPE"_R1.fastq" --right $DATADIR/$TYPE"_R2.fastq" --CPU $NO_THREAD --output $WORKDIR/$TYPE"2"/trinity --no_version_check
+
+cd $DATADIR
+rm -rf $TYPE"_R1.fastq"
+rm -rf $TYPE"_R2.fastq"

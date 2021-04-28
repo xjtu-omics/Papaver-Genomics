@@ -1,0 +1,13 @@
+#!/bin/sh
+
+export PATH=/home/software/miniconda2/bin:$PATH
+SEQSTAT=/home/software/nextdenovo/NextDenovo/bin/seq_stat
+DATADIR=/home/rawdata
+cd $DATADIR
+
+echo $DATADIR
+$SEQSTAT -g $GENOMESIZE $FOFNFILE  ## generate the parameters, FOFNFILE is the fastq file list
+
+
+$NEXTDENOVO run.cfg
+
