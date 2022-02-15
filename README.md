@@ -48,3 +48,6 @@ If you want to use these data, please contact Xiaofei Yang, xfyang@xjtu.edu.cn o
    - `mcscanx_run.sh` : McscanX analysis of genome by [Mcscanx](https://github.com/wyp1125/MCScanx)
    - `trinity_run.pbs` : script used to assembly transcripts based on RNA-seq data by [trinity](https://rnabio.org/module-06-trinity/0006/02/01/Trinity_Assembly_And_Analysis/)
    - `RNA-seq_analysis.sh` : script used to calculate `TPM` based on RNA-seq data by [hisat2](https://daehwankimlab.github.io/hisat2/), [stringtie](http://ccb.jhu.edu/software/stringtie/) and [ballgown](https://github.com/alyssafrazee/ballgown)
+
+## Citation
+Yang, X., Gao, S., Guo, L. et al. Three chromosome-scale Papaver genomes reveal punctuated patchwork evolution of the morphinan and noscapine biosynthesis pathway. Nat Commun 12, 6030 (2021). https://doi.org/10.1038/s41467-021-26330-8
