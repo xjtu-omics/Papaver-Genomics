@@ -64,4 +64,4 @@ If you want to analyze these data, please contact Xiaofei Yang, [xfyang@xjtu.edu
 
 ---
 ### Citation
-Yang, X., Gao, S., Guo, L. et al. Three chromosome-scale Papaver genomes reveal punctuated patchwork evolution of the morphinan and noscapine biosynthesis pathway. Nat Commun 12, 6030 (2021). https://doi.org/10.1038/s41467-021-26330-8
+Yang, X., Gao, S., Guo, L. et al. Three chromosome-scale Papaver genomes reveal punctuated patchwork evolution of the morphinan and noscapine biosynthesis pathway. Nat Commun 12, 6030 (2021). [https://doi.org/10.1038/s41467-021-26330-8](https://doi.org/10.1038/s41467-021-26330-8)
