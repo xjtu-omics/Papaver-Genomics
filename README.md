@@ -51,3 +51,6 @@ If you want to use these data, please contact Xiaofei Yang, xfyang@xjtu.edu.cn o
 
 ## Citation
 Yang, X., Gao, S., Guo, L. et al. Three chromosome-scale Papaver genomes reveal punctuated patchwork evolution of the morphinan and noscapine biosynthesis pathway. Nat Commun 12, 6030 (2021). https://doi.org/10.1038/s41467-021-26330-8
+
+### The 2018 version of Papaver somniferum genome citation
+Guo L, Winzer T, Yang X, et al. The opium poppy genome and morphinan production[J]. Science, 2018, 362(6412): 343-347.
