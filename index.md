@@ -61,3 +61,7 @@ Currently, it includes _Papaver somniferum_ (opium poppy), _Papaver rhoeas_ (com
 If you have any questions, please contact with Dr. Xiaofei Yang, [xfyang@xjtu.edu.cn](xfyang@xjtu.edu.cn), [yangxiaofeihe@163.com](yangxiaofeihe@163.com)
 
 If you want to analyze these data, please contact Xiaofei Yang, [xfyang@xjtu.edu.cn](xfyang@xjtu.edu.cn) or Kai Ye, [kaiye@xjtu.edu.cn](kaiye@xjtu.edu.cn)
+
+---
+### Citation
+Yang, X., Gao, S., Guo, L. et al. Three chromosome-scale Papaver genomes reveal punctuated patchwork evolution of the morphinan and noscapine biosynthesis pathway. Nat Commun 12, 6030 (2021). https://doi.org/10.1038/s41467-021-26330-8
