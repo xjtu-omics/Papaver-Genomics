@@ -16,8 +16,8 @@ Currently, it includes _Papaver somniferum_ (opium poppy), _Papaver rhoeas_ (com
            <a href = "https://github.com/xjtu-omics/Papaver-Genomics/raw/main/Papaver_somniferum/Papaver_somniferum.gene.bed.tar.gz" download="Papaver_somniferum.gene.bed.tar.gz"> <i>bed</i> </a> &nbsp;&nbsp;&nbsp;
             <a href = "https://github.com/xjtu-omics/Papaver-Genomics/raw/main/Papaver_somniferum/Papaver_somniferum.gene.gff3.tar.gz" download="Papaver_somniferum.gene.gff3.tar.gz"> <i>gff3</i> </a> &nbsp;&nbsp;&nbsp;
              <a href = "https://github.com/xjtu-omics/Papaver-Genomics/raw/main/Papaver_somniferum/Papaver_somniferum.cds.tar.gz" download="Papaver_somniferum.cds.tar.gz"> <i>cds</i> </a>  &nbsp;&nbsp;&nbsp;
-        <a href = "https://github.com/xjtu-omics/Papaver-Genomics/raw/main/Papaver_somniferum/Papaver_somniferum.pep.tar.gz" download="Papaver_somniferum.pep.tar.gz"> <i>protein</i> </a> 
-      </p>
+        <a href = "https://github.com/xjtu-omics/Papaver-Genomics/raw/main/Papaver_somniferum/Papaver_somniferum.pep.tar.gz" download="Papaver_somniferum.pep.tar.gz"> <i>protein</i> </a> </p> 
+      <p>The <b>2018 version </b> of <i>Papaver somniferum</i> (Opium poppy) <b>genomes assembly </b> can be downloaed from NCBI under accession number <a href = "https://www.ncbi.nlm.nih.gov/genome/12819"> PRJNA435796  </a>, the <b>genome annotation </b> can be downloaed from <a href = "https://drive.google.com/drive/folders/1EbvADcWflXQIuFcAukUs5TVDPfq81YrO"> Google drive </a>, and the <b> raw sequencing data </b> can be downloaed from NCBI under accession number <a href = "https://www.ncbi.nlm.nih.gov/Traces/wgs/PUWZ01"> PUWZ00000000 </a> </p>
     </td>
     <td width="25%">
       <img src="image/opium_poppy.png" width="100%">
@@ -65,3 +65,6 @@ If you want to analyze these data, please contact Xiaofei Yang, [xfyang@xjtu.edu
 ---
 ### Citation
 Yang, X., Gao, S., Guo, L. et al. Three chromosome-scale Papaver genomes reveal punctuated patchwork evolution of the morphinan and noscapine biosynthesis pathway. Nat Commun 12, 6030 (2021). [https://doi.org/10.1038/s41467-021-26330-8](https://doi.org/10.1038/s41467-021-26330-8)
+
+#### The 2018 version of <i> Papaver somniferum </i> genome citation
+Guo L, Winzer T, Yang X, et al. The opium poppy genome and morphinan production[J]. Science, 2018, 362(6412): 343-347.
