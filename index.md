@@ -31,7 +31,7 @@ Currently, it includes _Papaver somniferum_ (opium poppy), _Papaver rhoeas_ (com
       <p><b>Genome Assembly</b>: <a href = "https://bigd.big.ac.cn/search/?dbId=&q=GWHAZPH00000000"> GWHAZPH00000000 </a></p>
       <p><b>Genome Annotation</b>: <a href = "https://github.com/xjtu-omics/Papaver-Genomics/raw/main/Papaver_setigerum/Papaver_setigerum.gene.bed.tar.gz" download="Papaver_setigerum.gene.bed.tar.gz"> <i>bed</i> </a>  &nbsp;&nbsp;&nbsp;
        <a href = "https://github.com/xjtu-omics/Papaver-Genomics/raw/main/Papaver_setigerum/Papaver_setigerum.gene.gff3.tar.gz" download="Papaver_setigerum.gene.gff3.tar.gz"> <i>gff3</i> </a>  &nbsp;&nbsp;&nbsp;
-       <a href = "https://github.com/xjtu-omics/Papaver-Genomics/blob/main/Papaver_setigerum/Papaver_setigerum.cds.tar.gz" download="Papaver_setigerum.cds.tar.gz"> <i>cds</i> </a> &nbsp;&nbsp;&nbsp;
+       <a href = "https://github.com/xjtu-omics/Papaver-Genomics/raw/main/Papaver_setigerum/Papaver_setigerum.cds.tar.gz" download="Papaver_setigerum.cds.tar.gz"> <i>cds</i> </a> &nbsp;&nbsp;&nbsp;
        <a href = "https://github.com/xjtu-omics/Papaver-Genomics/raw/main/Papaver_setigerum/Papaver_setigerum.pep.tar.gz" download="Papaver_setigerum.pep.tar.gz"> <i>protein</i> </a> </p>
     </td>
     <td width="25%">
