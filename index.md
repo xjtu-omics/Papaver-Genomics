@@ -2,7 +2,7 @@
 
 # This is the Genomics Data resource of _Papaver_ species genome
 
-Currently, it includes _Papaver somniferum_ (opium poppy), _Papaver rhoeas_ (common poppy), and _Papaver setigerum_ (troy poppy) genomic data
+Currently, it includes _Papaver somniferum_, _Papaver rhoeas_ , _Papaver bracteatum_ and _Papaver setigerum_  genomic data
 
 ---
 <div>
@@ -10,8 +10,8 @@ Currently, it includes _Papaver somniferum_ (opium poppy), _Papaver rhoeas_ (com
   <tr>
     <td width="75%">
       <h1><i>Papaver somniferum</i></h1>
-      <p><b>Genomic Raw Data</b>: <a href = "https://bigd.big.ac.cn"> at National Genomics Data Center (NGDC)</a></p>
-      <p><b>Genome Assembly</b>: <a href = "https://bigd.big.ac.cn/search/?dbId=&q=GWHAZPJ00000000"> GWHAZPJ00000000 </a></p>
+      <p><b>Genomic Raw Data</b>: <a href = "https://ngdc.cncb.ac.cn"> at National Genomics Data Center (NGDC)</a></p>
+      <p><b>Genome Assembly</b>: <a href = "https://ngdc.cncb.ac.cn/search/?dbId=&q=GWHAZPJ00000000.1"> GWHAZPJ00000000.1 </a></p>
       <p><b>Genome Annotation</b>: 
         <a href = "https://drive.google.com/file/d/1J2DGfp_x7l5HRaDSVvVWcRyU_sZhvwEC/view?usp=drive_link" download="Papaver_somniferum.gene.bed.tar.gz"> <i>bed (2023, HiFi)</i> </a> &nbsp;&nbsp;&nbsp;
         <a href = "https://drive.google.com/file/d/1qtsXrZMJTcLvNohILSjBSg4MQl6P8NgU/view?usp=drive_link" download="Papaver_somniferum.gene.gff3.tar.gz"> <i>gff3 (2023, HiFi)</i> </a> &nbsp;&nbsp;&nbsp;
@@ -36,8 +36,8 @@ Currently, it includes _Papaver somniferum_ (opium poppy), _Papaver rhoeas_ (com
   <tr>
     <td width="75%">
       <h1><i>Papaver setigerum</i></h1>
-      <p><b>Genomic Raw Data</b>: <a href = "https://bigd.big.ac.cn"> at National Genomics Data Center (NGDC)</a></p>
-      <p><b>Genome Assembly</b>: <a href = "https://bigd.big.ac.cn/search/?dbId=&q=GWHAZPH00000000"> xxxx </a></p>
+      <p><b>Genomic Raw Data</b>: <a href = "https://ngdc.cncb.ac.cn"> at National Genomics Data Center (NGDC)</a></p>
+      <p><b>Genome Assembly</b>: <a href = "https://ngdc.cncb.ac.cn/search/?dbId=&q=GWHAZPH00000000.1"> GWHAZPH00000000.1 </a></p>
       <p><b>Genome Annotation</b>: 
         <a href = "https://drive.google.com/file/d/1S5QYg2poXDZNAU554_Fv5eAVK1PaR8iW/view?usp=drive_link" download="Papaver_setigerum.gene.bed.tar.gz"> <i>bed (2023, HiFi)</i> </a>  &nbsp;&nbsp;&nbsp;
        <a href = "https://drive.google.com/file/d/14Rl4euosWw086Il3c7fL2LC2_-rvxFgp/view?usp=drive_link" download="Papaver_setigerum.gene.gff3.tar.gz"> <i>gff3 (2023, HiFi)</i> </a>  &nbsp;&nbsp;&nbsp;
@@ -58,8 +58,8 @@ Currently, it includes _Papaver somniferum_ (opium poppy), _Papaver rhoeas_ (com
   <tr>
     <td width="75%">
       <h1><i>Papaver rhoeas</i></h1>
-      <p><b>Genomic Raw Data</b>: <a href = "https://bigd.big.ac.cn"> at National Genomics Data Center (NGDC)</a></p>
-      <p><b>Genome Assembly</b>: <a href = "https://bigd.big.ac.cn/search/?dbId=&q=GWHAZPI00000000">  xxxx </a></p>
+      <p><b>Genomic Raw Data</b>: <a href = "https://ngdc.cncb.ac.cn"> at National Genomics Data Center (NGDC)</a></p>
+      <p><b>Genome Assembly</b>: <a href = "https://ngdc.cncb.ac.cn/search/?dbId=&q=GWHAZPI00000000.1">  GWHAZPI00000000.1 </a></p>
       <p><b>Genome Annotation</b>: 
         <a href = "https://drive.google.com/file/d/1AUFFDpLZKsV96uvDg3hPezWGDTjRrEKk/view?usp=drive_link" download="Papaver_rhoeas.gene.bed.tar.gz"> <i>bed (2023, HiFi)</i> </a>  &nbsp;&nbsp;&nbsp;
       <a href = "https://drive.google.com/file/d/1RxkoiwHg4nuQkJDYCkcwyskUiY77Z5ol/view?usp=drive_link" download="Papaver_rhoeas.gene.gff3.tar.gz"> <i>gff3 (2023, HiFi)</i></a> &nbsp;&nbsp;&nbsp;
@@ -78,8 +78,8 @@ Currently, it includes _Papaver somniferum_ (opium poppy), _Papaver rhoeas_ (com
   <tr>
     <td width="75%">
       <h1><i>Papaver bracteatum</i></h1>
-      <p><b>Genomic Raw Data</b>: <a href = "https://bigd.big.ac.cn"> at National Genomics Data Center (NGDC)</a></p>
-      <p><b>Genome Assembly</b>: <a href = "https://bigd.big.ac.cn/search/?dbId=&q=xxx"> xxx </a></p>
+      <p><b>Genomic Raw Data</b>: <a href = "https://ngdc.cncb.ac.cn"> at National Genomics Data Center (NGDC)</a></p>
+      <p><b>Genome Assembly</b>: <a href = "https://ngdc.cncb.ac.cn/search/?dbId=&q=GWHDRIO00000000"> GWHDRIO00000000 </a></p>
       <p><b>Genome Annotation</b>: 
       <a href = "https://drive.google.com/file/d/1iO8zCKef-Kgsnd1qdhTqLLqvPUo3t7S0/view?usp=drive_link" download="Papaver_bracteatum.gene.bed.tar.gz"> <i>bed (2023, HiFi)</i> </a>  &nbsp;&nbsp;&nbsp;
       <a href = "https://drive.google.com/file/d/1jEgZJ0WBp1u8ChraMZ8y4I41VL3xWbWd/view?usp=drive_link" download="Papaver_bracteatum.gene.gff3.tar.gz"> <i>gff3 (2023, HiFi)</i></a> &nbsp;&nbsp;&nbsp;
