@@ -13,10 +13,10 @@ Currently, it includes _Papaver somniferum_, _Papaver rhoeas_ , _Papaver bractea
       <p><b>Genomic Raw Data</b>: <a href = "https://ngdc.cncb.ac.cn"> at National Genomics Data Center (NGDC)</a></p>
       <p><b>Genome Assembly</b>: <a href = "https://ngdc.cncb.ac.cn/search/?dbId=&q=GWHAZPJ00000000.1"> GWHAZPJ00000000.1 </a></p>
       <p><b>Genome Annotation</b>: 
-        <a href = "https://drive.google.com/file/d/1J2DGfp_x7l5HRaDSVvVWcRyU_sZhvwEC/view?usp=drive_link" download="Papaver_somniferum.gene.bed.tar.gz"> <i>bed (2023, HiFi)</i> </a> &nbsp;&nbsp;&nbsp;
-        <a href = "https://drive.google.com/file/d/1qtsXrZMJTcLvNohILSjBSg4MQl6P8NgU/view?usp=drive_link" download="Papaver_somniferum.gene.gff3.tar.gz"> <i>gff3 (2023, HiFi)</i> </a> &nbsp;&nbsp;&nbsp;
-        <a href = "https://drive.google.com/file/d/1hln5CxyQBc9EUCvGsWlVnxdJoeiTZ62o/view?usp=drive_link" download="Papaver_somniferum.cds.tar.gz"> <i>cds (2023, HiFi)</i> </a>  &nbsp;&nbsp;&nbsp;
-        <a href = "https://drive.google.com/file/d/1f8yyvQ0Cd9S2fIL_uPhXYwJ7gB6kHOR4/view?usp=drive_link" download="Papaver_somniferum.pep.tar.gz"> <i>protein (2023, HiFi)</i> </a> 
+        <a href = "https://drive.google.com/file/d/1J2DGfp_x7l5HRaDSVvVWcRyU_sZhvwEC/view?usp=drive_link" download="Papaver_somniferum.gene.bed.tar.gz"> <i>bed (2024, HiFi)</i> </a> &nbsp;&nbsp;&nbsp;
+        <a href = "https://drive.google.com/file/d/1qtsXrZMJTcLvNohILSjBSg4MQl6P8NgU/view?usp=drive_link" download="Papaver_somniferum.gene.gff3.tar.gz"> <i>gff3 (2024, HiFi)</i> </a> &nbsp;&nbsp;&nbsp;
+        <a href = "https://drive.google.com/file/d/1hln5CxyQBc9EUCvGsWlVnxdJoeiTZ62o/view?usp=drive_link" download="Papaver_somniferum.cds.tar.gz"> <i>cds (2024, HiFi)</i> </a>  &nbsp;&nbsp;&nbsp;
+        <a href = "https://drive.google.com/file/d/1f8yyvQ0Cd9S2fIL_uPhXYwJ7gB6kHOR4/view?usp=drive_link" download="Papaver_somniferum.pep.tar.gz"> <i>protein (2024, HiFi)</i> </a> 
       </p> 
       <p>The <b>2021 version </b> (published on <i>Nature Communications</i>) of <i>Papaver somniferum</i> <b>genomes assembly </b> can be downloaed from NGDC under accession number <a href = "https://ngdc.cncb.ac.cn/search/?dbId=&q=GWHAZPJ00000000"> GWHAZPJ00000000 (2021) </a>, the <b>genome annotation </b> can be downloaed from 
       <a href = "https://github.com/xjtu-omics/Papaver-Genomics/raw/main/Papaver_somniferum/Papaver_somniferum.gene.bed.tar.gz" download="Papaver_somniferum.gene.bed.tar.gz"> <i>bed (2021)</i> </a> &nbsp;&nbsp;&nbsp;
@@ -39,10 +39,10 @@ Currently, it includes _Papaver somniferum_, _Papaver rhoeas_ , _Papaver bractea
       <p><b>Genomic Raw Data</b>: <a href = "https://ngdc.cncb.ac.cn"> at National Genomics Data Center (NGDC)</a></p>
       <p><b>Genome Assembly</b>: <a href = "https://ngdc.cncb.ac.cn/search/?dbId=&q=GWHAZPH00000000.1"> GWHAZPH00000000.1 </a></p>
       <p><b>Genome Annotation</b>: 
-        <a href = "https://drive.google.com/file/d/1S5QYg2poXDZNAU554_Fv5eAVK1PaR8iW/view?usp=drive_link" download="Papaver_setigerum.gene.bed.tar.gz"> <i>bed (2023, HiFi)</i> </a>  &nbsp;&nbsp;&nbsp;
-       <a href = "https://drive.google.com/file/d/14Rl4euosWw086Il3c7fL2LC2_-rvxFgp/view?usp=drive_link" download="Papaver_setigerum.gene.gff3.tar.gz"> <i>gff3 (2023, HiFi)</i> </a>  &nbsp;&nbsp;&nbsp;
-       <a href = "https://drive.google.com/file/d/1BSq_fZ-Fsk00JTwbfuCPWV80Y32x0pNJ/view?usp=drive_link" download="Papaver_setigerum.cds.tar.gz"> <i>cds (2023, HiFi)</i> </a> &nbsp;&nbsp;&nbsp;
-       <a href = "https://drive.google.com/file/d/1ZwllkI7VT5lR3bmx755E0pwPrelqQAXP/view?usp=drive_link" download="Papaver_setigerum.pep.tar.gz"> <i>protein (2023, HiFi)</i> </a> 
+        <a href = "https://drive.google.com/file/d/1S5QYg2poXDZNAU554_Fv5eAVK1PaR8iW/view?usp=drive_link" download="Papaver_setigerum.gene.bed.tar.gz"> <i>bed (2024, HiFi)</i> </a>  &nbsp;&nbsp;&nbsp;
+       <a href = "https://drive.google.com/file/d/14Rl4euosWw086Il3c7fL2LC2_-rvxFgp/view?usp=drive_link" download="Papaver_setigerum.gene.gff3.tar.gz"> <i>gff3 (2024, HiFi)</i> </a>  &nbsp;&nbsp;&nbsp;
+       <a href = "https://drive.google.com/file/d/1BSq_fZ-Fsk00JTwbfuCPWV80Y32x0pNJ/view?usp=drive_link" download="Papaver_setigerum.cds.tar.gz"> <i>cds (2024, HiFi)</i> </a> &nbsp;&nbsp;&nbsp;
+       <a href = "https://drive.google.com/file/d/1ZwllkI7VT5lR3bmx755E0pwPrelqQAXP/view?usp=drive_link" download="Papaver_setigerum.pep.tar.gz"> <i>protein (2024, HiFi)</i> </a> 
       </p>
       <p>The <b>2021 version </b> (published on <i>Nature Communications </i>) of <i>Papaver setigerum</i> <b>genomes assembly </b> can be downloaed from NGDC under accession number <a href = "https://ngdc.cncb.ac.cn/search/?dbId=&q=GWHAZPH00000000"> GWHAZPH00000000 (2021) </a>, the <b>genome annotation </b> can be downloaed from  
         <a href = "https://github.com/xjtu-omics/Papaver-Genomics/raw/main/Papaver_setigerum/Papaver_setigerum.gene.bed.tar.gz" download="Papaver_setigerum.gene.bed.tar.gz"> <i>bed (2021)</i> </a>  &nbsp;&nbsp;&nbsp;
@@ -61,10 +61,10 @@ Currently, it includes _Papaver somniferum_, _Papaver rhoeas_ , _Papaver bractea
       <p><b>Genomic Raw Data</b>: <a href = "https://ngdc.cncb.ac.cn"> at National Genomics Data Center (NGDC)</a></p>
       <p><b>Genome Assembly</b>: <a href = "https://ngdc.cncb.ac.cn/search/?dbId=&q=GWHAZPI00000000.1">  GWHAZPI00000000.1 </a></p>
       <p><b>Genome Annotation</b>: 
-        <a href = "https://drive.google.com/file/d/1AUFFDpLZKsV96uvDg3hPezWGDTjRrEKk/view?usp=drive_link" download="Papaver_rhoeas.gene.bed.tar.gz"> <i>bed (2023, HiFi)</i> </a>  &nbsp;&nbsp;&nbsp;
-      <a href = "https://drive.google.com/file/d/1RxkoiwHg4nuQkJDYCkcwyskUiY77Z5ol/view?usp=drive_link" download="Papaver_rhoeas.gene.gff3.tar.gz"> <i>gff3 (2023, HiFi)</i></a> &nbsp;&nbsp;&nbsp;
-      <a href = "https://drive.google.com/file/d/1BSq_fZ-Fsk00JTwbfuCPWV80Y32x0pNJ/view?usp=drive_link" download="Papaver_rhoeas.cds.tar.gz"> <i>cds (2023, HiFi)</i> </a> &nbsp;&nbsp;&nbsp;
-      <a href = "https://drive.google.com/file/d/1I08LH79O2ddIuzfw8UeRf1jazgMVwDA4/view?usp=drive_link" download="Papaver_rhoeas.pep.tar.gz"> <i>protein (2023, HiFi)</i> </a></p>
+        <a href = "https://drive.google.com/file/d/1AUFFDpLZKsV96uvDg3hPezWGDTjRrEKk/view?usp=drive_link" download="Papaver_rhoeas.gene.bed.tar.gz"> <i>bed (2024, HiFi)</i> </a>  &nbsp;&nbsp;&nbsp;
+      <a href = "https://drive.google.com/file/d/1RxkoiwHg4nuQkJDYCkcwyskUiY77Z5ol/view?usp=drive_link" download="Papaver_rhoeas.gene.gff3.tar.gz"> <i>gff3 (2024, HiFi)</i></a> &nbsp;&nbsp;&nbsp;
+      <a href = "https://drive.google.com/file/d/1BSq_fZ-Fsk00JTwbfuCPWV80Y32x0pNJ/view?usp=drive_link" download="Papaver_rhoeas.cds.tar.gz"> <i>cds (2024, HiFi)</i> </a> &nbsp;&nbsp;&nbsp;
+      <a href = "https://drive.google.com/file/d/1I08LH79O2ddIuzfw8UeRf1jazgMVwDA4/view?usp=drive_link" download="Papaver_rhoeas.pep.tar.gz"> <i>protein (2024, HiFi)</i> </a></p>
       <p>The <b>2021 version </b> (published on <i>Nature Communications</i>) of <i>Papaver rhoeas</i> <b>genomes assembly </b> can be downloaed from NGDC under accession number <a href = "https://ngdc.cncb.ac.cn/search/?dbId=&q=GWHAZPI00000000"> GWHAZPI00000000 (2021) </a>, the <b>genome annotation </b> can be downloaed from 
         <a href = "https://github.com/xjtu-omics/Papaver-Genomics/raw/main/Papaver_rhoeas/Papaver_rhoeas.gene.bed.tar.gz" download="Papaver_rhoeas.gene.bed.tar.gz"> <i>bed (2021)</i> </a>  &nbsp;&nbsp;&nbsp;
         <a href = "https://github.com/xjtu-omics/Papaver-Genomics/raw/main/Papaver_rhoeas/Papaver_rhoeas.gene.gff3.tar.gz" download="Papaver_rhoeas.gene.gff3.tar.gz"> <i>gff3 (2021) </i></a> &nbsp;&nbsp;&nbsp;
@@ -81,10 +81,10 @@ Currently, it includes _Papaver somniferum_, _Papaver rhoeas_ , _Papaver bractea
       <p><b>Genomic Raw Data</b>: <a href = "https://ngdc.cncb.ac.cn"> at National Genomics Data Center (NGDC)</a></p>
       <p><b>Genome Assembly</b>: <a href = "https://ngdc.cncb.ac.cn/search/?dbId=&q=GWHDRIO00000000"> GWHDRIO00000000 </a></p>
       <p><b>Genome Annotation</b>: 
-      <a href = "https://drive.google.com/file/d/1iO8zCKef-Kgsnd1qdhTqLLqvPUo3t7S0/view?usp=drive_link" download="Papaver_bracteatum.gene.bed.tar.gz"> <i>bed (2023, HiFi)</i> </a>  &nbsp;&nbsp;&nbsp;
-      <a href = "https://drive.google.com/file/d/1jEgZJ0WBp1u8ChraMZ8y4I41VL3xWbWd/view?usp=drive_link" download="Papaver_bracteatum.gene.gff3.tar.gz"> <i>gff3 (2023, HiFi)</i></a> &nbsp;&nbsp;&nbsp;
-      <a href = "https://drive.google.com/file/d/14E2Pfiwn4SG8QfqMN4KSROvZ5H-KO6ym/view?usp=drive_link" download="Papaver_bracteatum.cds.tar.gz"> <i>cds (2023, HiFi)</i> </a> &nbsp;&nbsp;&nbsp;
-      <a href = "https://drive.google.com/file/d/1SA1xtNDCgxLW6k26EH4ZsAcRWSuqOcKZ/view?usp=drive_link" download="Papaver_bracteatum.pep.tar.gz"> <i>protein (2023, HiFi)</i> </a></p>
+      <a href = "https://drive.google.com/file/d/1iO8zCKef-Kgsnd1qdhTqLLqvPUo3t7S0/view?usp=drive_link" download="Papaver_bracteatum.gene.bed.tar.gz"> <i>bed (2024, HiFi)</i> </a>  &nbsp;&nbsp;&nbsp;
+      <a href = "https://drive.google.com/file/d/1jEgZJ0WBp1u8ChraMZ8y4I41VL3xWbWd/view?usp=drive_link" download="Papaver_bracteatum.gene.gff3.tar.gz"> <i>gff3 (2024, HiFi)</i></a> &nbsp;&nbsp;&nbsp;
+      <a href = "https://drive.google.com/file/d/14E2Pfiwn4SG8QfqMN4KSROvZ5H-KO6ym/view?usp=drive_link" download="Papaver_bracteatum.cds.tar.gz"> <i>cds (2024, HiFi)</i> </a> &nbsp;&nbsp;&nbsp;
+      <a href = "https://drive.google.com/file/d/1SA1xtNDCgxLW6k26EH4ZsAcRWSuqOcKZ/view?usp=drive_link" download="Papaver_bracteatum.pep.tar.gz"> <i>protein (2024, HiFi)</i> </a></p>
     </td>
     <td width="25%">
       <img src="image/Papaver_bracteata_-_Flickr_-_peganum.jpg" width="100%">
@@ -102,6 +102,10 @@ If you want to analyze these data, please contact Xiaofei Yang, [xfyang@xjtu.edu
 
 ---
 ### Citation
+#### The 2024 version of <i> Papaver somniferum </i>, <i> Papaver rhoeas </i>, <i> Papaver setigerum </i>, <i>Papaver bracteatum</i> genome citation
+Shenghan Gao, Yanyan Jia, Hongtao Guo, Tun Xu, Bo Wang, Stephen J. Bush, Shijie Wan, Yimeng Zhang, Xiaofei Yang*, Kai Ye*, The centromere landscapes of four karyotypically diverse Papaver species provide insights into chromosome evolution and speciation, Cell Genomics (2024), [https://doi.org/10.1016/j.xgen.2024.100626](https://doi.org/10.1016/j.xgen.2024.100626)
+
+#### The 2021 version of <i> Papaver somniferum </i>, <i> Papaver rhoeas </i>, <i> Papaver setigerum </i> genome citation
 Yang, X., Gao, S., Guo, L. et al. Three chromosome-scale Papaver genomes reveal punctuated patchwork evolution of the morphinan and noscapine biosynthesis pathway. Nat Commun 12, 6030 (2021). [https://doi.org/10.1038/s41467-021-26330-8](https://doi.org/10.1038/s41467-021-26330-8)
 
 #### The 2018 version of <i> Papaver somniferum </i> genome citation
