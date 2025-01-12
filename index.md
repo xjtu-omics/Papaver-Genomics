@@ -63,7 +63,7 @@ Currently, it includes _Papaver somniferum_, _Papaver rhoeas_ , _Papaver bractea
       <p><b>Genome Annotation</b>: 
         <a href = "https://drive.google.com/file/d/1AUFFDpLZKsV96uvDg3hPezWGDTjRrEKk/view?usp=drive_link" download="Papaver_rhoeas.gene.bed.tar.gz"> <i>bed (2024, HiFi)</i> </a>  &nbsp;&nbsp;&nbsp;
       <a href = "https://drive.google.com/file/d/1RxkoiwHg4nuQkJDYCkcwyskUiY77Z5ol/view?usp=drive_link" download="Papaver_rhoeas.gene.gff3.tar.gz"> <i>gff3 (2024, HiFi)</i></a> &nbsp;&nbsp;&nbsp;
-      <a href = "https://drive.google.com/file/d/1BSq_fZ-Fsk00JTwbfuCPWV80Y32x0pNJ/view?usp=drive_link" download="Papaver_rhoeas.cds.tar.gz"> <i>cds (2024, HiFi)</i> </a> &nbsp;&nbsp;&nbsp;
+      <a href = "https://drive.google.com/file/d/1fkATAw7ZgA0chDlHWYkBlVot3BlReSqN/view?usp=drive_link" download="Papaver_rhoeas.cds.tar.gz"> <i>cds (2024, HiFi)</i> </a> &nbsp;&nbsp;&nbsp;
       <a href = "https://drive.google.com/file/d/1I08LH79O2ddIuzfw8UeRf1jazgMVwDA4/view?usp=drive_link" download="Papaver_rhoeas.pep.tar.gz"> <i>protein (2024, HiFi)</i> </a></p>
       <p>The <b>2021 version </b> (published on <i>Nature Communications</i>) of <i>Papaver rhoeas</i> <b>genomes assembly </b> can be downloaed from NGDC under accession number <a href = "https://ngdc.cncb.ac.cn/search/?dbId=&q=GWHAZPI00000000"> GWHAZPI00000000 (2021) </a>, the <b>genome annotation </b> can be downloaed from 
         <a href = "https://github.com/xjtu-omics/Papaver-Genomics/raw/main/Papaver_rhoeas/Papaver_rhoeas.gene.bed.tar.gz" download="Papaver_rhoeas.gene.bed.tar.gz"> <i>bed (2021)</i> </a>  &nbsp;&nbsp;&nbsp;
