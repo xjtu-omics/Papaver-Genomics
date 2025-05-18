@@ -50,7 +50,14 @@ If you want to use these data, please contact Xiaofei Yang, xfyang@xjtu.edu.cn o
    - `RNA-seq_analysis.sh` : script used to calculate `TPM` based on RNA-seq data by [hisat2](https://daehwankimlab.github.io/hisat2/), [stringtie](http://ccb.jhu.edu/software/stringtie/) and [ballgown](https://github.com/alyssafrazee/ballgown)
 
 ## Citation
+
+### The 2024 version of Papaver genome citation
+Shenghan Gao#, Yanyan Jia#, Hongtao Guo, Tun Xu, Bo Wang, Stephen J. Bush, Shijie Wan, Yimeng Zhang, Xiaofei Yang*, Kai Ye*, The centromere landscapes of four karyotypically diverse Papaver species provide insights into chromosome evolution and speciation, Cell Genomics 2024, 14;4(8):100626, https://doi.org/10.1016/j.xgen.2024.100626
+
+### The 2021 version of Papver genome citation
 Yang, X., Gao, S., Guo, L. et al. Three chromosome-scale Papaver genomes reveal punctuated patchwork evolution of the morphinan and noscapine biosynthesis pathway. Nat Commun 12, 6030 (2021). https://doi.org/10.1038/s41467-021-26330-8
+        
+        
 
 ### The 2018 version of Papaver somniferum genome citation
 Guo L, Winzer T, Yang X, et al. The opium poppy genome and morphinan production[J]. Science, 2018, 362(6412): 343-347.
